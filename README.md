@@ -2,6 +2,8 @@
 
 This repository contains a Power BI dashboard built to visualize and analyze business data using interactive reports. The goal of this project is to turn raw data into meaningful insights through clear visual storytelling and easy-to-use filters.
 
+
+
 🔍 Project Overview
 This dashboard helps users:
 
@@ -17,6 +19,8 @@ Make data-driven decisions quickly and confidently
 
 It’s designed for both business users and data enthusiasts looking to understand key insights from data at a glance.
 
+
+
 ⚙️ Features
 📈 Visual Charts – Bar charts, line graphs, pie charts, and cards
 
@@ -31,6 +35,8 @@ It’s designed for both business users and data enthusiasts looking to understa
 📅 Date Analysis – View trends by month, quarter, or year
 
 📦 Data Modeling – Clean and well-structured data model for easy use
+
+
 
 🛠️ Tools & Technologies
 Power BI Desktop – For building and editing the report
